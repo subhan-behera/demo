@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(205, 233, 255);
+  }
+  .df{
+    background-color: rgba(111, 207, 232, 0.604);
+    
+  }
+@media screen and (min-width: 1180px) {
+   
+    .df{
+        background-color: rgb(157, 157, 238);
+        margin: 20px 350px 20px 350px;
+        padding: 10px 20px 20px 20px;
+    }
+}
